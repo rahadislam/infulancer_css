@@ -121,6 +121,11 @@
     Height:414px;
     margin-top: 23px;
     margin-left: 116px;
+    transition: 1s;
+
+ }
+ .intro_img img:hover{
+    transform: scale(1.5);
  }
  .see_more{
      text-align: right;
